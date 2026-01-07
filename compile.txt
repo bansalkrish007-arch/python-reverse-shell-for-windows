@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile your_script.py
